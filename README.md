@@ -1,2 +1,2 @@
 # Task-Mate-Kenyan-Sign-Language-Classification-Challenge
-Stacking model for sign language images
+Blending model for sign language images. Data obtained from three NNs is used.
